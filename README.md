@@ -4,3 +4,4 @@ Adapted from WGCNA Tutorial I. provided by Dr. Peter Langfelder and Dr. Steve Ho
 
 For use with SLURM job scheduler
 
+TODO: add sessionInfo()
