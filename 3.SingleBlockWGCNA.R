@@ -14,6 +14,8 @@
 # author:   Kevin Chau
 # date:     2018 02 02
 
+library(WGCNA)
+
 # argument parsing
 args <- commandArgs(trailingOnly=TRUE)
 if (length(args) < 2) {
